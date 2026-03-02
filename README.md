@@ -14,7 +14,7 @@
 The third sector – organizations that are neither public nor private – plays a vital role in society. Previous studies have shown associations between third sector involvement and outcomes such as political participation, well-being, and health. This study estimates the monetary value of the global third sector using country-level replacement wages. Results indicate that the value of the third sector across 114 countries with available data is USD 5.92 trillion. Extrapolated to the global level, the total value of the third sector is USD 8.27 trillion, or 7.27% of GDP, making it larger than the global agricultural sector. 
 
 ## Variables in the Excel File
-# If the variables were calculated using a formula, the formula can be found after the '='
+#### The letters in front of each variable correspond to the column in Excel. If the variables were calculated using a formula, the formula can be found after the '='
 
 A Country
 
